@@ -1,6 +1,6 @@
 # OIBSIP
 
-# Aetherion Technologies Landing Page
+# Task 1: Aetherion Technologies Landing Page
 
 ## Description
 
@@ -84,7 +84,45 @@ Allows users to submit inquiries through a simple contact form.
 * Developed a complete landing page from scratch
 * Gained practical experience in UI design
 
+-------------------------------------------------------
+
+# Task 2: Portfolio website
+
+## Description
+A responsive personal portfolio website developed to showcase my skills, projects, and contact information. The website features a modern dark-themed design with interactive hover effects and smooth navigation.
+
+## Features
+Responsive portfolio design
+Sticky navigation bar
+Smooth scrolling between sections
+About Me section
+Skills showcase
+Project showcase cards
+Contact section with clickable links
+Hover animations and glowing effects
+Modern dark UI with purple and pink theme
+
+
+## Concepts Used
+HTML5
+CSS3
+Flexbox Layout
+CSS Gradients
+CSS Transitions
+Hover Effects
+Smooth Scrolling
+External Hyperlinks
+
+## Output
+
+The website successfully displays personal information, technical skills, projects, and contact details in a visually appealing and professional portfolio format.
+
+##Screenshot
+![Portfolio](p1.png)
+![Portfolio](p2.png)
+
+-----------------------------------------------------------
 ## Author
 
-Charunetra
+T.K.Charunetra
 
