@@ -1,5 +1,11 @@
 # OIBSIP
 
+## About
+This repository contains all the projects completed during my Web Development & Designing Internship at Oasis Infobyte. Each task focuses on improving front-end development skills using HTML, CSS, and JavaScript.
+
+
+
+
 # Task 1: Aetherion Technologies Landing Page
 
 ## Description
@@ -84,6 +90,8 @@ Allows users to submit inquiries through a simple contact form.
 * Developed a complete landing page from scratch
 * Gained practical experience in UI design
 
+
+
 -------------------------------------------------------
 
 # Task 2: Portfolio website
@@ -104,8 +112,8 @@ A responsive personal portfolio website developed to showcase my skills, project
 
 
 ## Technologies Used
-HTML5
-CSS3
+* HTML5
+* CSS3
 
 
 ## Concepts Used
@@ -136,6 +144,8 @@ The website successfully displays personal information, technical skills, projec
 * Developed a professional portfolio to showcase skills and projects.
 
 -----------------------------------------------------------
+
+
 
 
 # Task 3: Temperature Converter
